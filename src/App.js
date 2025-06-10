@@ -47,7 +47,7 @@ function App() {
   const getSuggestions = () => {
     if (selectedOptions.length === 2) {
       const key = selectedOptions.map(opt => opt.name).sort().join(',');
-      return venues[key] || ['Bu kombinasyon için mekan bulunamadı'];
+      return venues[key];
     }
     return [];
   };
