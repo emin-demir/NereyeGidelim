@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NereyeGidelim/static/css/main.cb2c4d82.css",
-    "main.js": "/NereyeGidelim/static/js/main.5671bb6b.js",
+    "main.css": "/NereyeGidelim/static/css/main.cc9820a7.css",
+    "main.js": "/NereyeGidelim/static/js/main.461c1486.js",
     "index.html": "/NereyeGidelim/index.html",
-    "main.cb2c4d82.css.map": "/NereyeGidelim/static/css/main.cb2c4d82.css.map",
-    "main.5671bb6b.js.map": "/NereyeGidelim/static/js/main.5671bb6b.js.map"
+    "main.cc9820a7.css.map": "/NereyeGidelim/static/css/main.cc9820a7.css.map",
+    "main.461c1486.js.map": "/NereyeGidelim/static/js/main.461c1486.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb2c4d82.css",
-    "static/js/main.5671bb6b.js"
+    "static/css/main.cc9820a7.css",
+    "static/js/main.461c1486.js"
   ]
 }
