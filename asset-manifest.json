@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nereye-gidelim/static/css/main.cb2c4d82.css",
+    "main.js": "/nereye-gidelim/static/js/main.5671bb6b.js",
+    "index.html": "/nereye-gidelim/index.html",
+    "main.cb2c4d82.css.map": "/nereye-gidelim/static/css/main.cb2c4d82.css.map",
+    "main.5671bb6b.js.map": "/nereye-gidelim/static/js/main.5671bb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2c4d82.css",
+    "static/js/main.5671bb6b.js"
+  ]
+}
